@@ -8,18 +8,19 @@
     user-select: none;
 }
 
-.enclosure-cell {
-    border: solid 3px blueviolet;
-    user-select: none;
-}
-
-.device-cell {
-    border: solid 2px blue;
-    user-select: none;
-}
-
 .cell {
-
     border: solid 1px red;
     user-select: none;
+}
+
+.odf {
+    border:solid 2px green;
+}
+
+.enclosure {
+    border: solid 3px blue;
+}
+
+.zone {
+    border: solid 3px orangered;
 }
